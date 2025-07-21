@@ -99,32 +99,34 @@ province_map <-  geojson_read("www/basemaps/phl_provinces_ncr-districts_icc.geoj
 ##
 ![](www/slides/slide3.png){width="100%"}
 
-<!-- :::notes -->
-<!-- Because we’re kanin all the time. -->
-<!-- ::: -->
+
+:::notes
+Because we’re kanin all the time.
+:::
 
 
 ##
 ![](www/slides/slide4.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- We also see our deep connection to rice in culture and arts. -->
-<!-- ::: -->
+:::notes
+We also see our deep connection to rice in culture and arts.
+:::
+
 
 ##
 ![](www/slides/slide5.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- Maging sa mga kasabihan and/or songs. Another example is, “Isang kahig, Isang Tuka”. It all pertain to grains, for us Filipinos, that is rice. -->
-<!-- ::: -->
+::: notes
+Maging sa mga kasabihan and/or songs. Another example is, “Isang kahig, Isang Tuka”. It all pertain to grains, for us Filipinos, that is rice.
+:::
 
 
 ##
 ![](www/slides/slide6.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- Boodle fight. The way we express our connection with our friends and families, through food. Kaya lang, next boodle time, please be RicePonsible.  -->
-<!-- ::: -->
+::: notes
+Boodle fight. The way we express our connection with our friends and families, through food. Kaya lang, next boodle time, please be RicePonsible.
+:::
 
 
 ##
@@ -136,43 +138,45 @@ province_map <-  geojson_read("www/basemaps/phl_provinces_ncr-districts_icc.geoj
 ##
 ![](www/slides/slide8.png){width="100%"}
 
-<!-- :::notes -->
+:::notes
 
-<!-- Umiinog ang buhay natin sa kanin. At mahalaga ang kanin dahil, “basta’t may kanin, busog!”. And a meal isn’t a meal without rice. Ang ibig sabihin sa atin ng “Kumain ka ng tama” ay “eat your meal with rice”. -->
+Umiinog ang buhay natin sa kanin. At mahalaga ang kanin dahil, “basta’t may kanin, busog!”. And a meal isn’t a meal without rice. Ang ibig sabihin sa atin ng “Kumain ka ng tama” ay “eat your meal with rice”.
 
-<!-- ::: -->
+:::
 
 
 ##
 ![](www/slides/slide9.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- When issues like the price of rice happen, we are and we want to be involved.  -->
-<!-- ::: -->
+::: notes
+When issues like the price of rice happen, we are and we want to be involved.
+:::
 
 
 ##
 ![](www/slides/slide10.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- Not just consumers but also producers make their voice heard. Ibang usapan na yan, palay, bigas, at kanin e. -->
-<!-- ::: -->
+::: notes
+Not just consumers but also producers make their voice heard. Ibang usapan na yan, palay, bigas, at kanin e.
+:::
 
 
 ##
 ![](www/slides/slide11.png){width="100%"}
 
-<!-- ::: notes -->
-<!-- With our love for rice, ang kabuuang konsumo ng mga mahihirap ay nasa 37-38% (rice and rice products) at 34% naman sa average na Filipino. Gaano nga ba karami ang ating kinokonsumo? -->
-<!-- ::: -->
+::: notes
+With our love for rice, ang kabuuang konsumo ng mga mahihirap ay nasa 37-38% (rice and rice products) at 34% naman sa average na Filipino. Gaano nga ba karami ang ating kinokonsumo?
+:::
 
 ##
 ![](www/slides/slide12.png){width="100%"}
-<!-- :::notes -->
 
-<!-- That’s more than two and half sacks of 50kg sack of milled rice per year! -->
 
-<!-- ::: -->
+:::notes
+
+That’s more than two and half sacks of 50kg sack of milled rice per year!
+
+:::
 
 
 ##
@@ -2076,33 +2080,33 @@ plot_ly(x=~Year,
 
 ![](www/slides/sources.png){width="100%"}
 
-<!-- ::: notes -->
-
-<!-- We know that products of research for development such as seeds, integrated management, and mechanization contribute 38% to production growth. Extension, which promotes knowledge and skills and contributes 16% of the growth. Together R4DE would easily accounts for more than half of the production growth. -->
-<!-- ::: -->
+:::notes
+We know that products of research for development such as seeds, integrated management, and mechanization contribute 38% to production growth. Extension, which promotes knowledge and skills and contributes 16% of the growth. Together R4DE would easily accounts for more than half of the production growth.
+:::
 
 
 ## 
 
 ![](www/slides/slide50.png){width="100%"}
-<!-- ::: notes -->
-<!-- Data show that in NE, Davao Sur, and Apayao hybrid rice users yield 7 tons/ha.  -->
 
-<!-- As a result, it takes only 10 pesos for hybrid rice farmers to produce a kilogram of dry paddy whereas users of certified and saved seeds have unit costs of approximately 11 pesos and 13 pesos per kilo respectively.  -->
+:::notes
+Data show that in NE, Davao Sur, and Apayao hybrid rice users yield 7 tons/ha.
 
-<!-- This is why we are promoting high quality seeds couples with appropriate management in suitable areas to maximize its yield potential.  -->
+As a result, it takes only 10 pesos for hybrid rice farmers to produce a kilogram of dry paddy whereas users of certified and saved seeds have unit costs of approximately 11 pesos and 13 pesos per kilo respectively.
 
-<!-- Kahit pa sinasabing mas maliit ang ipinupuhunan na pera sa low quality seeds, makikita na hindi sulit ang aanihin. Ipagpalagay na PhP 17 ang bentahan ng palay. Si low quality inbred, ay kikita lamang ng PhP 4.37, samantalang si high quality inbred ay kikita ng PhP 5.76 at si hybrid naman ay PhP 6.01. Nahihila pataas ng laki ng ani ang naipuhunan.  -->
-<!-- ::: -->
+This is why we are promoting high quality seeds couples with appropriate management in suitable areas to maximize its yield potential.
+
+Kahit pa sinasabing mas maliit ang ipinupuhunan na pera sa low quality seeds, makikita na hindi sulit ang aanihin. Ipagpalagay na PhP 17 ang bentahan ng palay. Si low quality inbred, ay kikita lamang ng PhP 4.37, samantalang si high quality inbred ay kikita ng PhP 5.76 at si hybrid naman ay PhP 6.01. Nahihila pataas ng laki ng ani ang naipuhunan.
+:::
 
 
 ## 
 
 ![](www/slides/slide51.png){width="100%"}
 
-<!-- :::notes -->
-<!-- Labor cost occupies the biggest chunk of paddy production cost in the Philippines. In irrigated areas of Nueva Ecija, labor contributes 35% of the total production cost. Thus, saving on labor can lead to huge reduction in cost. The most laborious farm activities are crop establishment, harvesting, and threshing. These are where cost reduction can make a dent in competitiveness. -->
-<!-- ::: -->
+:::notes
+Labor cost occupies the biggest chunk of paddy production cost in the Philippines. In irrigated areas of Nueva Ecija, labor contributes 35% of the total production cost. Thus, saving on labor can lead to huge reduction in cost. The most laborious farm activities are crop establishment, harvesting, and threshing. These are where cost reduction can make a dent in competitiveness.
+:::
 
 
 ## 
@@ -2113,14 +2117,14 @@ plot_ly(x=~Year,
 
 ![](www/slides/slide53.png){width="100%"}
 
-<!-- :::notes -->
+:::notes
 
-<!-- Reducing the cost of producing rice and enhancing competitiveness should not only fall on the shoulders of farmers. Marketing players should also play their part. Magagawa po natin ito by reducing the transport cost.   -->
+Reducing the cost of producing rice and enhancing competitiveness should not only fall on the shoulders of farmers. Marketing players should also play their part. Magagawa po natin ito by reducing the transport cost.
 
-<!-- Increasing the capacity utilization of big rice mills. For example, paddy traders could venture into rice wholesale/retail business without investing in large equipment, and avail the services of underutilized rice mills. Increasing the capacity utilization of existing rice mills could reduce the milling cost. -->
+Increasing the capacity utilization of big rice mills. For example, paddy traders could venture into rice wholesale/retail business without investing in large equipment, and avail the services of underutilized rice mills. Increasing the capacity utilization of existing rice mills could reduce the milling cost.
 
-<!-- And, reducing the marketing players to minimize margin. Also, a way to reduce processing cost of rice is to improve milling efficiency.  -->
-<!-- ::: -->
+And, reducing the marketing players to minimize margin. Also, a way to reduce processing cost of rice is to improve milling efficiency.
+:::
 
 ## 
 
@@ -2135,20 +2139,48 @@ plot_ly(x=~Year,
 
 ![](www/slides/slide59.png){width="100%"}
 
-## Data Sources
+## Data Sources {.tiny-text}
+
+:::: {.r-stack}
+
+::: {.fragment .fade-out fragment-index=1}
+
+![](www/slides/psa.png){width="100%"}
 
 
 - **[Philippine Statistics Authority (PSA)](https://psa.gov.ph)**
-  <br><span style="font-size: 80%;">Provider of official statistics on agriculture, economy, and demographics.</span>
+  <br><span style="font-size: 80%;">Central statistical authority of the Philippine government on primary data collection</span>
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=2}
+
+![](www/slides/PRiSM.png){width="100%"}
 
 - **[Philippine Rice Information System (PRiSM)](https://prism.philrice.gov.ph)**
   <br><span style="font-size: 80%;">Satellite-based monitoring system for rice area, yield, and damage assessments.</span>
 
-- **[DOST-PAGASA](https://bagong.pagasa.dost.gov.ph)**
-  <br><span style="font-size: 80%;">National meteorological and hydrological services including rainfall and climate data.</span>
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=3}
+
+![](www/slides/ricelytics.png){width="100%"}
 
 - **[PhilRice Ricelytics](https://ricelytics.philrice.gov.ph)**
-  <br><span style="font-size: 80%;">Interactive platform for rice data visualization and analytics.</span>
+  <br><span style="font-size: 80%;"> An interactive data-driven platform designed to empower researchers, policymakers, and stakeholders in the rice industry with actionable insights</span>
+
+:::
+
+::: {.fragment .fade-in-then-out fragment-index=4}
+
+![](www/slides/pagasa.png){width="100%"}
+
+- **[DOST-PAGASA](https://bagong.pagasa.dost.gov.ph)**
+  <br><span style="font-size: 80%;">Philippine center for atmosperic, meteorological and hydrological services including rainfall and climate data.</span>
+
+
+:::
+
+::::
 
 
 ## 
