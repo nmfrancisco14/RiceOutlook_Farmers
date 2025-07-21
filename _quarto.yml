@@ -1,5 +1,7 @@
 project:
   title: "RiceOutlook_Farmers"
+  resources:
+    - www
 
 
 
