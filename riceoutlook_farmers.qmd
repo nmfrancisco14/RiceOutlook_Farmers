@@ -99,41 +99,81 @@ province_map <-  geojson_read("www/basemaps/phl_provinces_ncr-districts_icc.geoj
 ##
 ![](www/slides/slide3.png){width="100%"}
 
-::: notes
-Because we’re kanin all the time.
-:::
+<!-- :::notes -->
+<!-- Because we’re kanin all the time. -->
+<!-- ::: -->
 
 
 ##
 ![](www/slides/slide4.png){width="100%"}
 
-::: notes
-We also see our deep connection to rice in culture and arts.
-:::
+<!-- ::: notes -->
+<!-- We also see our deep connection to rice in culture and arts. -->
+<!-- ::: -->
 
 ##
 ![](www/slides/slide5.png){width="100%"}
 
+<!-- ::: notes -->
+<!-- Maging sa mga kasabihan and/or songs. Another example is, “Isang kahig, Isang Tuka”. It all pertain to grains, for us Filipinos, that is rice. -->
+<!-- ::: -->
+
+
 ##
 ![](www/slides/slide6.png){width="100%"}
+
+<!-- ::: notes -->
+<!-- Boodle fight. The way we express our connection with our friends and families, through food. Kaya lang, next boodle time, please be RicePonsible.  -->
+<!-- ::: -->
+
 
 ##
 ![](www/slides/slide7.png){width="100%"}
 
+
+
+
 ##
 ![](www/slides/slide8.png){width="100%"}
+
+<!-- :::notes -->
+
+<!-- Umiinog ang buhay natin sa kanin. At mahalaga ang kanin dahil, “basta’t may kanin, busog!”. And a meal isn’t a meal without rice. Ang ibig sabihin sa atin ng “Kumain ka ng tama” ay “eat your meal with rice”. -->
+
+<!-- ::: -->
+
 
 ##
 ![](www/slides/slide9.png){width="100%"}
 
+<!-- ::: notes -->
+<!-- When issues like the price of rice happen, we are and we want to be involved.  -->
+<!-- ::: -->
+
+
 ##
 ![](www/slides/slide10.png){width="100%"}
+
+<!-- ::: notes -->
+<!-- Not just consumers but also producers make their voice heard. Ibang usapan na yan, palay, bigas, at kanin e. -->
+<!-- ::: -->
+
 
 ##
 ![](www/slides/slide11.png){width="100%"}
 
+<!-- ::: notes -->
+<!-- With our love for rice, ang kabuuang konsumo ng mga mahihirap ay nasa 37-38% (rice and rice products) at 34% naman sa average na Filipino. Gaano nga ba karami ang ating kinokonsumo? -->
+<!-- ::: -->
+
 ##
 ![](www/slides/slide12.png){width="100%"}
+<!-- :::notes -->
+
+<!-- That’s more than two and half sacks of 50kg sack of milled rice per year! -->
+
+<!-- ::: -->
+
 
 ##
 ![](www/slides/slide13.png){width="100%"}
@@ -425,6 +465,18 @@ leaflet(psa_prodmap,
 ```
 :::
 :::
+
+<!-- ::: notes -->
+
+<!-- The province with the highest area harvested to palay, is in Isabela at 296,788 ha.  -->
+
+<!-- Top 5 Provinces with highest area harvested: -->
+<!-- Isabela- 296788  -->
+<!-- Nueva Ecija- 292613 -->
+<!-- Pangasinan- 256212  -->
+<!-- Iloilo- 255422  -->
+<!-- Cagayan- 239232  -->
+<!-- ::: -->
 
 ##
 ![](www/slides/slide18.png){width="100%"}
@@ -1320,25 +1372,57 @@ sua_categ |>
 ##
 ![](www/slides/slide32.png){width="100%"}
 
+<!-- ::: notes -->
+<!-- Kahit ganyan ang nakikita natin tuwing anihan. Kinukulang tayo ng bigas. At may mga lugar na hindi rin ganun karami ang palay, bigas, at magsasaka. -->
+<!-- ::: -->
+
+
 ##
 ![](www/slides/slide33.png){width="100%"}
 
 ##
 ![](www/slides2/slide27.png){width="100%"}
+<!-- ::: notes -->
 
+<!-- Una we have smaller land areas relative to other rice producing countries. In a year, we only have about 5 M ha area harvested (4.81 M ha to be exact). Malayo na ang kasunod, like Vietnam na mayroong 7 M ha at Thailand and Indonesia na 11 M ha. -->
+
+<!-- ::: -->
 
 ##
 ![](www/slides2/slide28.png){width="100%"}
 
+<!-- :::notes -->
+<!-- Also, our country is an archipelago of more than 7,000 islands (with fragmented and small rice areas) -->
+<!-- ::: -->
+
 ##
 ![](www/slides2/slide29.png){width="100%"}
+<!-- ::: notes -->
+<!-- Secondly, Philippines has a whopping 114 million mouths to feed. With our country having fragmented and small rice areas , 24 Filipinos share in the output of 1 ha of rice farm; This is high comparing to Thailand and Vietnam. -->
+
+<!-- Note that Thailand's land area is bigger by around two-thirds than ours and practically, a land mass of flatland except those near the borders of Laos, Cambodia and Myanmar.  -->
+<!-- ::: -->
+
 
 ##
 ![](www/slides2/slide30.png){width="100%"}
 
+<!-- ::: notes -->
+
+<!-- Third, geography and resource endowments, yung mga likas na meron tayo. Exporting countries like Vietnam and Thailand, they are mainland areas with huge river deltas such as Mekong River for Vietnam.  -->
+
+<!-- Island nation like Philippines is a net importer.  -->
+
+<!-- Isama pa natin yung dami ng mga bagyong dumadaan sa ating bansa.  -->
+<!-- ::: -->
+
 
 ##
 ![](www/slides2/slide31.png){width="100%"}
+
+<!-- ::: notes -->
+<!-- Hindi din lingid sa atin, climate change has posed greater threats to agricultural production. It has brought more powerful typhoons, prolonged and severe drought and flooding, and gave rise to more virulent pests and diseases among plants and animals during unexpected time of the year. -->
+<!-- ::: -->
 
 
 ## Typhoon Counts {.tiny-text}
@@ -1992,15 +2076,34 @@ plot_ly(x=~Year,
 
 ![](www/slides/sources.png){width="100%"}
 
+<!-- ::: notes -->
+
+<!-- We know that products of research for development such as seeds, integrated management, and mechanization contribute 38% to production growth. Extension, which promotes knowledge and skills and contributes 16% of the growth. Together R4DE would easily accounts for more than half of the production growth. -->
+<!-- ::: -->
 
 
 ## 
 
 ![](www/slides/slide50.png){width="100%"}
+<!-- ::: notes -->
+<!-- Data show that in NE, Davao Sur, and Apayao hybrid rice users yield 7 tons/ha.  -->
+
+<!-- As a result, it takes only 10 pesos for hybrid rice farmers to produce a kilogram of dry paddy whereas users of certified and saved seeds have unit costs of approximately 11 pesos and 13 pesos per kilo respectively.  -->
+
+<!-- This is why we are promoting high quality seeds couples with appropriate management in suitable areas to maximize its yield potential.  -->
+
+<!-- Kahit pa sinasabing mas maliit ang ipinupuhunan na pera sa low quality seeds, makikita na hindi sulit ang aanihin. Ipagpalagay na PhP 17 ang bentahan ng palay. Si low quality inbred, ay kikita lamang ng PhP 4.37, samantalang si high quality inbred ay kikita ng PhP 5.76 at si hybrid naman ay PhP 6.01. Nahihila pataas ng laki ng ani ang naipuhunan.  -->
+<!-- ::: -->
+
 
 ## 
 
 ![](www/slides/slide51.png){width="100%"}
+
+<!-- :::notes -->
+<!-- Labor cost occupies the biggest chunk of paddy production cost in the Philippines. In irrigated areas of Nueva Ecija, labor contributes 35% of the total production cost. Thus, saving on labor can lead to huge reduction in cost. The most laborious farm activities are crop establishment, harvesting, and threshing. These are where cost reduction can make a dent in competitiveness. -->
+<!-- ::: -->
+
 
 ## 
 
@@ -2009,6 +2112,15 @@ plot_ly(x=~Year,
 ## 
 
 ![](www/slides/slide53.png){width="100%"}
+
+<!-- :::notes -->
+
+<!-- Reducing the cost of producing rice and enhancing competitiveness should not only fall on the shoulders of farmers. Marketing players should also play their part. Magagawa po natin ito by reducing the transport cost.   -->
+
+<!-- Increasing the capacity utilization of big rice mills. For example, paddy traders could venture into rice wholesale/retail business without investing in large equipment, and avail the services of underutilized rice mills. Increasing the capacity utilization of existing rice mills could reduce the milling cost. -->
+
+<!-- And, reducing the marketing players to minimize margin. Also, a way to reduce processing cost of rice is to improve milling efficiency.  -->
+<!-- ::: -->
 
 ## 
 
@@ -2037,3 +2149,16 @@ plot_ly(x=~Year,
 
 - **[PhilRice Ricelytics](https://ricelytics.philrice.gov.ph)**
   <br><span style="font-size: 80%;">Interactive platform for rice data visualization and analytics.</span>
+
+
+## 
+
+::: thank-you
+::: {style="font-size: 2.5em; font-weight: bold; text-align: center;"}
+Thank You!!
+:::
+
+::: {style="margin-top: 1em; font-size: 1.2em; text-align: center;"}
+Questions or feedback?<br> <strong>philrice.dataanalytics\@gmail.com</strong>
+:::
+:::
